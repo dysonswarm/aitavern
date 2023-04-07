@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AITavern.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7113"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
